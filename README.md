@@ -1,4 +1,6 @@
-# CS 1666 - Platformer  
+# CS 1666 Principles of Computer Game Design and Implementation - Platformer 
+
+arb204 was my old school account. 
 
 [Link to our repo](https://github.com/arb204/CS_1666_Platformer)
 
